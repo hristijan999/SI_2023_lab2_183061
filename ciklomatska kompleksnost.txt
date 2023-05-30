@@ -1,0 +1,1 @@
+ciklicna kompleksnost M = 14 + specialCharacters.length()
